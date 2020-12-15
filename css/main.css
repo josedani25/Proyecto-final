@@ -1,0 +1,47 @@
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+@font-face {
+    font-family: 'AudioWide';
+    src: url(../fonts/Audiowide-Regular.ttf);
+}
+
+.AudioWide {
+    font-family: 'AudioWide';
+}
+.weee{
+    padding: 0 !important;
+}
+.xd{
+  background-color: transparent !important;
+  color: transparent !important;
+}
+.TitleLogo {
+    font-size: 50px;
+}
+.card-body {
+    padding: 0;
+}
+#imge{
+    position: relative;
+    float: left;
+}
+#editor { 
+    position: relative;
+    width: 490px;
+    height: 400px;
+    background-color: cyan;
+    float: left;
+    
+}
+#pp{
+    margin: 0%;
+    margin-right: 100px;
+    float: left;
+    background-color: none !important;
+    border: none !important;
+    
+}
